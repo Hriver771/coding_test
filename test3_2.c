@@ -15,6 +15,7 @@ void print_array(unsigned char ** source_data, int N, int M)
         }
         printf("\n");
     }
+    printf("\n");
 }
 
 int convert_dec(unsigned char ** source_data)
